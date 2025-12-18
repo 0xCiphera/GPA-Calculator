@@ -1,1 +1,1 @@
-"A simple calculator that helps student calculate GPA" 
+"A simple Logic used to calculate a student's GPA" 
